@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>{{ blok.headline }} </p>
+        <p>{{ blok?.headline }} </p>
     </div>
 </template>
 <script lang="ts" setup>
